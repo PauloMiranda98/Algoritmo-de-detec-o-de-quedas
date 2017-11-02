@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753194670622",
+    "firebase_url": "https://detector-de-quedas-31ef6.firebaseio.com",
+    "project_id": "detector-de-quedas-31ef6",
+    "storage_bucket": "detector-de-quedas-31ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753194670622:android:76ea79e5944946ee",
+        "android_client_info": {
+          "package_name": "paulomiranda.detectordequedas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753194670622-07ml6rehv1sp7428s46nbho1betiuosd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "paulomiranda.detectordequedas",
+            "certificate_hash": "be39ff524addf9ff31a82c02406f121eef199045"
+          }
+        },
+        {
+          "client_id": "753194670622-3o3200aqtp4d3o95jig4vbh7csp3f0ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJ_g82q6DcDbRoTp_EOQMIXGSVNUIVvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753194670622-3o3200aqtp4d3o95jig4vbh7csp3f0ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
